@@ -1,2 +1,2 @@
 # UIPlayerDifProcess
-用于不同进程之间，播放器和界面关联的验证；
+用于不同进程之间，播放器和界面关联的验证；在mediaServerProcess当中随便找两个视频丢到assets\movie路径下打包即可。

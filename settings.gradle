@@ -1,0 +1,3 @@
+include ':videoUIProcess'
+include ':mediaServerProcess'
+rootProject.name = "UIPlayerDifProcess"

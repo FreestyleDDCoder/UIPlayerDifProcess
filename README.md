@@ -7,7 +7,8 @@
   媒体进程，用于播放逻辑控制，与接收来自UI进程的Surface
   主要用于剥离界面和播放逻辑之间的关联性。
 * ![image](https://github.com/FreestyleDDCoder/UIPlayerDifProcess/blob/master/resources/player.gif)
-# LICENSE
+## License
+---
 Copyright [2021] [Zhan Liang]
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,3 +22,4 @@ Copyright [2021] [Zhan Liang]
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+---
